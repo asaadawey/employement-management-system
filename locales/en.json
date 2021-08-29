@@ -1,0 +1,8 @@
+{
+  "TITLE": "Employment managment system",
+  "ERROR": {
+    "TITLE": "Error",
+    "MESSAGE": "Unexpected error happened"
+  },
+  "HOME": "Home"
+}
